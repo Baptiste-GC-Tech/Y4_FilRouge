@@ -5,6 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/bboismenu/Documents/bboismenu/Y4_FilRouge/FilRouge/Content/CustomContent/Blueprints/Interactables/BP_LaserEmitter.uasset",
+				"C:/Users/bboismenu/Documents/bboismenu/Y4_FilRouge/FilRouge/Content/CustomContent/Levels/TestingAreas/LVL_LightPuzzleTestScene.umap",
+				"C:/Users/bboismenu/Documents/bboismenu/Y4_FilRouge/FilRouge/Content/CustomContent/Blueprints/BP_LightLaser.uasset",
 				"C:/Users/bboismenu/Documents/Y4_FilRouge/FilRouge/Content/CustomContent/Blueprints/Interactables/BP_LaserEmitter.uasset",
 				"C:/Users/bboismenu/Documents/Y4_FilRouge/FilRouge/Content/__ExternalActors__/_StartingContent/ThirdPerson/Lvl_ThirdPerson/9/CU/UUS5KMP29NO3S4REBDHX3A.uasset",
 				"C:/Users/bboismenu/Documents/Y4_FilRouge/FilRouge/Content/CustomContent/Levels/TestingAreas/LVL_LightPuzzleTestScene.umap",
